@@ -27,6 +27,7 @@ html, body {
   main {
     text-align: center;
     position: relative;
+    top: 80px;
   }
   
   main h1 {
@@ -99,6 +100,10 @@ html, body {
   .supporting .col {
     font-family: 'Raleway', sans-serif;
     text-align: center;
+    width: 200px;
+    height: 200px;
+    width: auto;
+    margin-top: 100px;
   }
   
   .supporting img {
